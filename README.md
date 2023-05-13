@@ -33,4 +33,4 @@ container name” to get the IP address of the MongoDB container. <br>
 chosen and view the results. And use the IP address acquired in the previous
 step to connect to MongoDB client. <br>
 ### Datapipeline
-<img src="figures/flowdiagram.jpg" width="500" height="600">>
+<img src="figures/flowdiagram.png" width="500" height="600">>
